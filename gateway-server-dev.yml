@@ -1,5 +1,5 @@
 server:
-    port: 9002
+    port: 9004
 eureka:
     client:
         register-with-eureka: true
